@@ -13,6 +13,7 @@ build/
 
 # Environment
 .env
+.env.example
 
 # Uploads (don't commit user images)
 uploads/
