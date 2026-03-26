@@ -1,4 +1,4 @@
-# ⚡ ScreenSight AI
+# ⚡ SAGE AI
 
 A production-grade AI-powered screenshot analysis tool. Upload any screenshot — error messages, code, terminal output, UI screens — and get **structured, in-depth AI explanations and solutions** in seconds.
 
@@ -37,7 +37,7 @@ Built with **Streamlit** + **Groq Vision API** (Llama 4 Scout).
 ## 📁 Project Structure
 
 ```
-ai-screenshot-explainer/
+SAGE/
 ├── app.py              # Main Streamlit UI (production-grade)
 ├── vision.py           # Groq Vision API integration (HTTP)
 ├── prompts.py          # System prompt for the AI
@@ -56,8 +56,8 @@ ai-screenshot-explainer/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-screenshot-explainer.git
-cd ai-screenshot-explainer
+git clone https://github.com/forex911/sage.git
+cd sage
 ```
 
 ### 2. Create a virtual environment
