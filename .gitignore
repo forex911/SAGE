@@ -13,7 +13,6 @@ build/
 
 # Environment
 .env
-.env.example
 
 # Uploads (don't commit user images)
 uploads/
@@ -27,5 +26,6 @@ uploads/
 .DS_Store
 Thumbs.db
 
-# Streamlit
-.streamlit/
+# Old files (deprecated after refactor)
+utils_old.py
+vision_old.py
